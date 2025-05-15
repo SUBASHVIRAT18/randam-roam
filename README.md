@@ -35,11 +35,8 @@ To implement an AI character in Unreal Engine that roams randomly within a defin
 ## Output
 
 
-![Screenshot 2025-05-08 221444](https://github.com/user-attachments/assets/2bfed4fb-8a19-47e9-9b7f-23fbc1cee889)
+![Screenshot 2025-05-15 132645](https://github.com/user-attachments/assets/d58dda20-904a-4dfb-84dd-f9f981588e02)
 
-
-
-![image](https://github.com/user-attachments/assets/286ac6c8-e8a1-4d75-b03f-c5bc78b75f17)
 
 
 
